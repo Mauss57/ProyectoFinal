@@ -1,0 +1,9 @@
+BITACORA DE CLASE
+
+Estudiante: Felipe
+Proyecto: Git y GitHub
+
+CLASE 1
+Actividades realizadas:
+clonar repo en casa
+crear rama
