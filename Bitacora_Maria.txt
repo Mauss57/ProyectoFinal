@@ -1,0 +1,5 @@
+BITACORA DEL PROYECTO FINAL
+
+Dia 1 ( 30 octubre )
+Hicimos un breve repaso de las librerías, el array.Copy, funciones matemáticas numpy y panda, también vimos como combinar arreglos
+arreglos de numero.
