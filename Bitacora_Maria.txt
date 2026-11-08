@@ -1,5 +1,8 @@
 BITACORA DEL PROYECTO FINAL
 
-Dia 1 ( 30 octubre )
+Dia 1 ( 30 de octubre )
 Hicimos un breve repaso de las librerías, el array.Copy, funciones matemáticas numpy y panda, también vimos como combinar arreglos
 arreglos de numero.
+
+DIA 2 ( 5 de Noviembre ) 
+Líneas de código para tratar datos, eliminar, limpiar, ver tablas calcular la media, ver el inicio del dataframe que es la tabla, ver el final de la tabla y tmb con las librerías 
