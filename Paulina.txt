@@ -1,9 +1,1 @@
-BITACORA DE CLASE
-
-Estudiante: Paulina
-Proyecto: Git y GitHub
-
-CLASE 1
-Actividades realizadas:
-clonar repo en casa
-crear rama
+sixseven calculadora
