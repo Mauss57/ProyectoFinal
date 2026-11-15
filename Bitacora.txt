@@ -3,10 +3,13 @@ BITACORA DE CLASE
 Estudiante: Felipe Restrepo
 Proyecto: Git y GitHub
 
-CLASE 1
+Clase:
 Actividades realizadas:
 clonar repo en casa
 crear rama
 
-Resumen otras clases:
+Clase:
 practica con librerias
+
+Clase:
+buscar base de datos
