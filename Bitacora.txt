@@ -15,3 +15,6 @@ Clase:
 buscar base de datos
 
 haciendo prueba de publicación
+
+Clase:
+dudas puntuales de clase 
