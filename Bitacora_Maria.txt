@@ -9,3 +9,9 @@ Líneas de código para tratar datos, eliminar, limpiar, ver tablas calcular la 
 
 Dia 3 ( 11 de Noviembre )
 utilizamos Matplotlib texto y anotaciones, Python con los import previos, eliminar registros con valores nulos, rellenar los valores nulos con valores constantes. Al principio de la clase vimos partes de una grafica en Matplotlib, también color, estilo y marcadores, cadena de formato, varias curvas y leyenda, grafica de histograma y de torta
+
+Dia 4 ( 13 de Noviembre ) 
+Buscamos bases de datos para el proyecto final y asi el profesor les dio el visto bueno, aprobando o rechazando estas mismas 
+
+Dia 5 ( 18 de Noviembre )
+Practicamos para el examen del día 20 (viernes), actualizamos las bases de datos con la respectiva información dada ese mismo día y creamos carpetas  
