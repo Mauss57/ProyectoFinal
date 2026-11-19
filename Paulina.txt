@@ -1,8 +1,13 @@
- 5 de Noviembre 
+Bitacora de lo hecho las ultimas clases
+
+30 de octubre
+Estudiamos librerias, numpy y panda. Tambien vimos array.copy
+
+5 de Noviembre 
 Líneas de código para tratar datos, eliminar, limpiar, ver tablas calcular la media, ver el inicio del dataframe que es la tabla, ver el final de la tabla y tmb con las librerías 
 
 11 de Noviembre 
-utilizamos Matplotlib texto y anotaciones, Python con los import previos, eliminar registros con valores nulos, rellenar los valores nulos con valores constantes. Al principio de la clase vimos partes de una grafica en Matplotlib, también color, estilo y marcadores, cadena de formato, varias curvas y leyenda, grafica de histograma y de torta
+utilizamos Matplotlib texto y anotaciones, eliminar registros con valores nulos, rellenar los valores nulos con valores constantes. vimos partes de una grafica en Matplotlib, también color, estilo y marcadores
 
 18 de noviembre
 Actualizamos las bases de datos, estudiamos para el parcial del viernes
