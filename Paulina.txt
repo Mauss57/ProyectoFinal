@@ -3,3 +3,6 @@ Líneas de código para tratar datos, eliminar, limpiar, ver tablas calcular la 
 
 11 de Noviembre 
 utilizamos Matplotlib texto y anotaciones, Python con los import previos, eliminar registros con valores nulos, rellenar los valores nulos con valores constantes. Al principio de la clase vimos partes de una grafica en Matplotlib, también color, estilo y marcadores, cadena de formato, varias curvas y leyenda, grafica de histograma y de torta
+
+18 de noviembre
+Actualizamos las bases de datos, estudiamos para el parcial del viernes
